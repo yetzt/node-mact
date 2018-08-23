@@ -1,0 +1,26 @@
+{
+  "name": "mact",
+  "version": "0.0.1",
+  "description": "MacOS CPU Temperature",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yetzt/node-mact.git"
+  },
+  "keywords": [
+    "mac",
+    "macos",
+    "osx",
+    "cpu",
+    "temp",
+    "temperature",
+    "sensor"
+  ],
+  "author": "yetzt <node@yetzt.me>",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-mact/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-mact#readme",
+  "os" : [ "darwin" ]
+}
